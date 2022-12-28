@@ -17,10 +17,13 @@ clicking on  the subject the new window screens appear which includes question s
 
 Step 3 / Screen 3 :
 
-![s3](https://user-images.githubusercontent.com/89337354/209784613-5ad959db-6538-4289-98f3-9746bc4cc115.png)
+![s3](https://user-images.githubusercontent.com/89337354/209786062-c606a57a-d05c-409c-92f7-23124135035a.png)
+
+
 with the help of bookmark feature we can bookmark multiple questions !
 
 Step 4 / Screen 4 :
 
-[s4](https://user-images.githubusercontent.com/89337354/209784910-922b336d-abd6-4d88-b0e8-a3a4ea9f49aa.png)
+![s4](https://user-images.githubusercontent.com/89337354/209786102-9f7e1b53-9a90-421f-a6dd-ead97118e8d0.png)
+
 clicking on  “OK” , The main window opens again and we can again practice the sets.
